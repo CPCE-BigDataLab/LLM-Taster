@@ -11,7 +11,7 @@ This Python script demonstrates how to set up a simple chatbot application. It s
 1. **Prerequisites:**
    - Install the OpenAI Python library: `pip install openai`.
    - Obtain an API key, base URL and model name.
-   - Replace `API_KEY`, `API_BASE` and "LLM_MODEL" placeholders in the script with your actual credentials.
+   - Replace `API_KEY`, `API_BASE` and `LLM_MODEL` placeholders in the script with your actual credentials.
 
 2. **Run the Script:**
    - Execute the script: `python sample_code.py`.
